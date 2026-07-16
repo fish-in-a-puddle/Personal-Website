@@ -1,0 +1,23 @@
+.header {
+    border: 2px solid blue;
+	padding: 10px;
+    background-color: lightskyblue;
+    width: 98%;
+    height: fit-content;
+}
+
+.footer {
+    border: 2px solid blue;
+	padding: 10px;
+    background-color: lightskyblue;
+    width: 98%;
+    height: fit-content;
+}
+
+.content {
+    border: 2px solid blue;
+	padding: 10px;
+    background-color: lightskyblue;
+    width: 98%;
+    height: fit-content;
+}
