@@ -21,3 +21,10 @@
     width: 98%;
     height: fit-content;
 }
+
+.project {
+    border: 1px solid blue;
+    padding: 3px;
+    width: 30%;
+    height: fit-content;
+}
